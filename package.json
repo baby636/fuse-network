@@ -30,7 +30,7 @@
   "dependencies": {
     "dotenv": "^8.0.0",
     "ethereumjs-wallet": "^0.6.3",
-    "openzeppelin-solidity": "2.1.0",
+    "openzeppelin-solidity": "3.4.1",
     "truffle-hdwallet-provider": "^1.0.12"
   },
   "devDependencies": {
