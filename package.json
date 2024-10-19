@@ -29,7 +29,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "ethereumjs-wallet": "^0.6.3",
+    "ethereumjs-wallet": "^1.0.0",
     "openzeppelin-solidity": "2.1.0",
     "truffle-hdwallet-provider": "^1.0.12"
   },
